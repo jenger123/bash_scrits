@@ -1,0 +1,18 @@
+ my address = 192.168.10.2/24
+ chvjbjmkl;, a2:97:5f:e3:6b:23 user.example.com 10.10.10.2
+ 10.10.10.2:25 : adres servera
+ 
+Ab:
+ student.urfu.ru sbjndj 168.16.192.15
+ 213.27.152.15
+190.93.176.11
+37.59.115.136
+89.191.131.243
+190.117.115.150
+66.96.255.46
+5.45.64.97
+3e:15:A2:20:4d:9B
+5B:10:c2:11:6d:6B
+00:00:3F:20:7E:6B student.urfu.ru
+08:3E:f2:20:4F:6Bextream.company.com
+08:3e:F2:20:4f:6b
